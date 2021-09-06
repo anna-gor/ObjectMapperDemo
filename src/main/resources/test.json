@@ -1,0 +1,89 @@
+[
+  {
+    "complexity": 1,
+    "kitchenTime": "20 m",
+    "totalTime": "40 m",
+    "ingredients": [
+      {
+        "name": "Muka"
+      },
+      {
+        "name": "Egg"
+      },
+      {
+        "name": "Salt"
+      },
+      {
+        "name": "Butter"
+      },
+      {
+        "name": "Water"
+      },
+      {
+        "name": "Chicken"
+      },
+      {
+        "name": "Grass"
+      }
+    ],
+    "cooking": [
+      {
+        "timer": "0",
+        "img": "https:\/\/cdn.food.ru\/unsigned\/fit\/640\/480\/ce\/0\/czM6Ly9tZWRpYS9waWN0dXJlcy9yZWNpcGVzLzQ2MzIxL3N0ZXBzLzREdXJVSi5qcGc.jpg",
+        "count": "0",
+        "description": "Cook."
+      },
+      {
+        "timer": "0",
+        "img": "https:\/\/cdn.food.ru\/unsigned\/fit\/640\/480\/ce\/0\/czM6Ly9tZWRpYS9waWN0dXJlcy9yZWNpcGVzLzQ2MzIxL3N0ZXBzLzREdXJVSi5qcGc.jpg",
+        "count": "1",
+        "description": "Cook."
+      }
+    ],
+    "title": "Soup",
+    "category": "First"
+  },
+  {
+    "complexity": 2,
+    "kitchenTime": "15 m",
+    "totalTime": "20 m",
+    "ingredients": [
+      {
+        "name": "muka"
+      },
+      {
+        "name": "Egg"
+      },
+      {
+        "name": "Milk"
+      },
+      {
+        "name": "Butter"
+      },
+      {
+        "name": "Water"
+      },
+      {
+        "name": "Salt"
+      },
+      {
+        "name": "Cheese"
+      }
+    ],
+    "cooking": [
+      {
+        "timer": "0",
+        "img": "https:\/\/cdn.food.ru\/unsigned\/fit\/640\/480\/ce\/0\/czM6Ly9tZWRpYS9waWN0dXJlcy9yZWNpcGVzLzQ2MzIxL3N0ZXBzLzREdXJVSi5qcGc.jpg",
+        "count": "0",
+        "description": "Cook."
+      },
+      {
+        "timer": "0",
+        "img": "https:\/\/cdn.food.ru\/unsigned\/fit\/640\/480\/ce\/0\/czM6Ly9tZWRpYS9waWN0dXJlcy9yZWNpcGVzLzQ2MzIxL3N0ZXBzLzREdXJVSi5qcGc.jpg",
+        "count": "0",
+        "description": "Cook."
+      }
+    ],
+    "title": "Milk",
+    "category": "First"
+  }]
